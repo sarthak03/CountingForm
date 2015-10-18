@@ -1,0 +1,162 @@
+
+body {
+            padding-top: 70px;
+            background-color: #e4e4e4;
+            /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+        }
+
+        .navbar-fixed-top .nav {
+            padding: 15px 0;
+            padding-left: 30px;
+        }
+
+        .navbar-fixed-top .navbar-brand {
+            padding: 0 15px;
+        }
+
+        @media(min-width:768px) {
+            body {
+                padding-top: 80px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+            }
+
+            .navbar-fixed-top .navbar-brand {
+                padding: 15px 0;
+                padding-left: 28px;
+            }
+
+#formbody{
+  background-color: #e4e4e4;
+  /*border-left: 2px dotted black;
+  border: 2px solid white;*/
+}
+body {
+    padding-top: 70px; 
+      background-color: #e4e4e4;
+/* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+    padding-left: 30px;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 80px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+        padding-left: 28px;
+    }
+.btn-lg{
+  background: #cb202d;
+  color: #fff;
+  padding: 13px 80px;
+  font-size: 22px;
+}
+.btn-lg:hover{
+  background: #cb202d;
+  opacity: 0.9;
+  color: #fff;
+}
+input[type=submit]{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+table{
+        font-size: 16px;
+    }
+
+    table { 
+        
+       /* border-collapse: collapse; */
+
+    }
+    // Zebra striping
+    tr:nth-of-type(odd) { 
+        background: #eee; 
+    }tr:nth-of-type(even) { 
+        background: #fff; 
+    }
+    th { 
+        background: #333; 
+        color: white; 
+        font-weight: bold; 
+        font-size: 15px;
+    }
+    td, th { 
+        padding: 6px; 
+        border: 1px solid #ccc; 
+        text-align: center; 
+    }
+    #jander{
+         font-weight: bold;
+         color: black;
+       }
+body {
+    padding-top: 70px; 
+      background-color: #e4e4e4;
+/* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+    padding-left: 30px;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 80px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+        padding-left: 8px;
+    }
+#test{
+    background: #333;
+  opacity: 0.9;
+  color: #fff;
+  text-color: white;
+  padding: 8px 18px;
+  font-size: 12px;
+}
+.btn-lg{
+  background: #cb202d;
+  color: #fff;
+  text-color: white;
+  padding: 10px 60px;
+  font-size: 15px;
+}
+
+.btn-success{
+    padding: 10px 0px;
+    font-size: 15px;
+}
+.btn-lg:hover{
+  background: #cb202d;
+  opacity: 0.9;
+  color: #fff;
+}
+input[type=submit]{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#loginModal.modal-body{
+  background-color: black;
+}
+#expand a:link, #expand a:visited{
+  color: white;
+}
